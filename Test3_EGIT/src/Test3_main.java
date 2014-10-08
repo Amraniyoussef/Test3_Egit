@@ -13,6 +13,7 @@ public class Test3_main {
 		System.out.println(d.toString());
 		System.out.println("Hello");
 		System.out.println("Tu vas Bien ?");
+		System.out.println("Oui et toi ?");
 	}
 
 }
