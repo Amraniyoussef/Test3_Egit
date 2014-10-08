@@ -11,6 +11,7 @@ public class Test3_main {
 		System.out.println("Bonsoir");
 		Date d = new Date();
 		System.out.println(d.toString());
+		System.out.println("Hello");
 	}
 
 }
