@@ -12,10 +12,7 @@ public class Test3_main {
 		Date d = new Date();
 		System.out.println(d.toString());
 		System.out.println("Hello");
-		System.out.println("Tu vas Bien ?");
-		System.out.println("Oui et toi ?");
-		System.out.println("Test PULL");
-		System.out.println("=======================================");
+	
 		System.out.println("yes");
 	}
 
