@@ -16,6 +16,7 @@ public class Test3_main {
 		System.out.println("Oui et toi ?");
 		System.out.println("Test PULL");
 		System.out.println("=======================================");
+		System.out.println("yes");
 	}
 
 }
