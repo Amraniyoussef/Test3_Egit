@@ -12,8 +12,13 @@ public class Test3_main {
 		Date d = new Date();
 		System.out.println(d.toString());
 		System.out.println("Hello");
+<<<<<<< HEAD
 		System.out.println("c youssef");
 		
+=======
+	
+		System.out.println("yes");
+>>>>>>> branch 'master' of https://github.com/Amraniyoussef/Test3_Egit.git
 	}
 
 }
