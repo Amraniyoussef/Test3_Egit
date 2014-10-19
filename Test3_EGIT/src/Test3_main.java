@@ -12,8 +12,8 @@ public class Test3_main {
 		Date d = new Date();
 		System.out.println(d.toString());
 		System.out.println("Hello");
-		System.out.println("youssef");
-		System.out.println("yes");
+		System.out.println(" c youssef");
+		
 	}
 
 }
